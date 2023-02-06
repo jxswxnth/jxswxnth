@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jxswxnth
 - 👀 I’m interested in Internet.
-- 🌱 I’m currently learning Full-Stakc Web Development 
+- 🌱 I’m currently learning Full-Stack Web Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @jxswxnth
 
